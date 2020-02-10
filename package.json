@@ -1,0 +1,20 @@
+{
+  "name": "final",
+  "version": "1.0.0",
+  "description": "HW2",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Apurva Kulkarni",
+  "license": "ISC",
+  "dependencies": {
+    "ejs-lint": "^0.3.0",
+    "express-validator": "^6.3.0",
+    "mongodb": "^2.2.36",
+    "mongoose": "^5.8.0",
+    "node-esapi": "0.0.1",
+    "sanitize": "^2.1.0"
+  },
+  "devDependencies": {}
+}
