@@ -12,7 +12,7 @@
     "ejs-lint": "^0.3.0",
     "express-validator": "^6.3.0",
     "mongodb": "^2.2.36",
-    "mongoose": "^5.8.0",
+    "mongoose": "^5.13.15",
     "node-esapi": "0.0.1",
     "sanitize": "^2.1.0"
   },
